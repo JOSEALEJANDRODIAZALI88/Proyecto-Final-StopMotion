@@ -5,7 +5,7 @@
 **Tema:** 12 principios de animacion y stop motion  
 **Carrera:** Informatica  
 **Estudiante:** Diaz Ali Jose Alejandro  
-**Materia:** Computacion Grafica  
+**Materia:** FUNDAMENTOS DE DISENIO Y ANIMACION  
 **Tipo de entrega:** Tutorial en video con recursos digitales  
 **Duracion del video:** 60 minutos como minimo  
 
@@ -41,11 +41,11 @@ Aplicar los 12 principios de animacion en una escena digital y explicarlos media
 | Herramienta | Uso principal |
 |---|---|
 | Blender | Creacion y animacion de la escena 3D |
-| PowerPoint / Canva | Presentacion visual del tutorial |
+| Canva | Presentacion visual del tutorial |
 | OBS Studio | Grabacion de pantalla y exposicion |
-| CapCut / DaVinci Resolve | Edicion del video final |
+| DaVinci Resolve | Edicion del video final |
 | GitHub | Organizacion y publicacion de recursos |
-| Google Drive / YouTube | Publicacion del video final |
+| YouTube | Publicacion del video final |
 
 ---
 
@@ -66,16 +66,14 @@ Proyecto-Final-StopMotion/
 │
 ├── video/
 │   ├── enlace_video.txt
-│   └── video_final.mp4
 │
 ├── capturas/
 │   ├── captura_blender_01.png
 │   ├── captura_blender_02.png
-│   └── captura_presentacion.png
 │
 └── recursos/
     ├── imagenes_referencia/
-    └── apuntes/
+
 ```
 
 ---
@@ -219,9 +217,8 @@ El proyecto demuestra que los principios de animacion permiten transformar una e
 
 ## Enlaces de entrega
 
-**Video final:** colocar aqui el enlace de YouTube o Google Drive  
-**Repositorio GitHub:** colocar aqui el enlace del repositorio  
-**Presentacion:** colocar aqui el enlace o archivo correspondiente  
+**Video final:** colocar aqui el enlace de YouTube   
+**Presentacion:** https://canva.link/ken55vops6u2fh1
 
 ---
 
