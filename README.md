@@ -217,7 +217,7 @@ El proyecto demuestra que los principios de animacion permiten transformar una e
 
 ## Enlaces de entrega
 
-**Video final:** colocar aqui el enlace de YouTube   
+**Video final:** https://youtu.be/tTyNCRgevbU   
 **Presentacion:** https://canva.link/ken55vops6u2fh1
 
 ---
